@@ -4,3 +4,4 @@ function authentificate (login, password){
         return 'you were login'
     }
 }
+console.log('develop');
